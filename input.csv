@@ -1,0 +1,4 @@
+MONTH,  SALARY,     TOTAL,             SQ
+12,     300,        =SALARY1*MONTH1,    =TOTAL1*TOTAL1
+=2+2*2,      100,        =SALARY2*MONTH2,    =TOTAL2*TOTAL2
+7,      25,         =SALARY3*MONTH3,    =TOTAL3*TOTAL3
